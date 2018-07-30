@@ -13,6 +13,12 @@ body, p {
   padding: 0;
   
 }
+    
+<style>/* kelly-slab-regular - latin */
+*{
+  font-family: 'Kelly Slab';
+}
+    </style>
 
 .wrapper {
   margin: 3em auto;
